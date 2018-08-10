@@ -1,2 +1,2 @@
 # Time_Series_Analysis_R
-Forecasting Candy Production in the USA
+Decoposition of trends, seasonality, Time Series Analysis and Forecasting Candy Production in the USA
